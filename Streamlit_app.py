@@ -1,4 +1,4 @@
 
 import streamlit
 
-stremlit.title ( " The Home Care Service")
+stremlit.title ( 'The Home Care Service')
